@@ -1,1 +1,1 @@
-# Job_scraping
+As part of a data scientist job, i have been exploring beautifulsoup library in python for the past few days. I have decided to use some of the skills learnt to extract some information about jobs advert on indeed.
