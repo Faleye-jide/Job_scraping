@@ -49,7 +49,7 @@ for i in range(0,40,10):
     print(df.head())
     df.to_csv('job.csv')
 
-# read dataframe
+# read data into dataframe
 file = pd.read_csv("job.csv")
 file.head()
 
